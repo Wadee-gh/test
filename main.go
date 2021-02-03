@@ -50,6 +50,7 @@ func updateuser(w http.ResponseWriter, r *http.Request)  {
 }
 
 func removeuser(w http.ResponseWriter, r *http.Request)  {
-	log.Println("delete user is called")	
+	log.Println("delete user is called")
+		
 }
 
